@@ -23,7 +23,7 @@ I'm **Ruoyu Chen <font face="楷体" >(陈若愚)</font>**, a Ph.D. candidate in
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2022</div><img src='images/sim2word.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -34,23 +34,38 @@ I'm **Ruoyu Chen <font face="楷体" >(陈若愚)</font>**, a Ph.D. candidate in
 
 [**Code**](https://github.com/RuoyuChen10/Sim2Word) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-ACM Transactions on Multimedia Computing, Communications, and Applications, <font color=purple>**Impact factor: 4.094**</font>
+ACM Transactions on Multimedia Computing, Communications, and Applications, <font color=purple>Impact factor: 4.094</font>
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2022</div><img src='images/duck.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Online Estimating Weight of White Pekin Duck Carcass by Computer Vision](https://www.sciencedirect.com/journal/poultry-science)
+
+**Ruoyu Chen**, Yuliang Zhao, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang and Wen Jung Li
+
+[**Code**](https://github.com/RuoyuChen10/Sim2Word) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+Poultry Science (Top Journal in Agricultural and Biological Sciences), <font color=purple>Impact factor: 4.014</font>
+</div>
+</div>
+
+- Identity-Preserving Face Anonymization via Adaptively Facial Attributes Obfuscation,  
+Jingzhi Li, Lutong Han, **Ruoyu Chen**, Hua Zhang, Bing Han, Lili Wang, and Xiaochun Cao, **ACM MM 2021**, <strong><font color=red>Oral</font></strong>,  
+<u>[Code](https://github.com/RuoyuChen10/Facial_Attributes_Obfuscation)</u> / <u>[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475367)</u>
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
+- *2019.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
+- *2018.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - 2026.06 (excepted)*,  
+School of Cyberspace Security, University of Chinese Academy of Sciences, China.  
+Ph.D. Candidate
+- *2017.09 - 2021.06*,  
+School of Control Engineering, Northeastern University, China.  
+Bachelor of Engineering  
+Ranking: 2/119
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
