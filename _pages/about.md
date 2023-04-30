@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Ruoyu Chen <font face="楷体" >(陈若愚)</font>**, a Ph.D. candidate in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the tutelage of Professor [Xiaochun Cao](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=en) (Professor at Sun Yat-sen University) and advised by [Hua Zhang](https://scholar.google.com/citations?user=KYifAy8AAAAJ&hl=en) (Associate Professor at IIE, CAS). My research interests include *Artificial Intelligence* and *Computer Vision*. My recent research works mainly focus on *Explainable AI*, *Disentangle*, *Few-shot Learning*, which applications in *Human Face*, *Object Detection*. I received my B.E. degree from School of Control Engineering, Northeastern University. During my undergraduate years, my main research interests are the application of artificial intelligence and image processing in agriculture and biomedical engineering.
+I'm **Ruoyu Chen <font face="楷体" >(陈若愚)</font>**, a Ph.D. candidate in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the tutelage of Professor [Xiaochun Cao](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=en) (Professor at Sun Yat-sen University). My research interests include *Artificial Intelligence* and *Computer Vision*. My recent research works mainly focus on *Explainable AI*, *Disentangle*, *Few-shot Learning*, which applications in *Human Face*, *Object Detection*. I received my B.E. degree from School of Control Engineering, Northeastern University. During my undergraduate years, my main research interests are the application of artificial intelligence and image processing in agriculture and biomedical engineering.
+
+I am very fortunate to have worked with lots of distinguished researchers: [Hua Zhang](https://scholar.google.com/citations?user=KYifAy8AAAAJ&hl=en) (Associate Professor at IIE, CAS), [Siyuan Liang](https://liangsiyuan21.github.io/) (Ph.D. candidate at IIE, CAS).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.05*: &nbsp;🎉🎉 Created a new home page. 
 
 # 📝 Selected Publications 
 
@@ -46,7 +48,7 @@ ACM Transactions on Multimedia Computing, Communications, and Applications, <fon
 
 **Ruoyu Chen**, Yuliang Zhao, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang and Wen Jung Li
 
-[**Code**](https://github.com/RuoyuChen10/Sim2Word) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/RuoyuChen10/Image_weighing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 Poultry Science (Top Journal in Agricultural and Biological Sciences), <font color=purple>Impact factor: 4.014</font>
 </div>
@@ -54,7 +56,8 @@ Poultry Science (Top Journal in Agricultural and Biological Sciences), <font col
 
 - Identity-Preserving Face Anonymization via Adaptively Facial Attributes Obfuscation,  
 Jingzhi Li, Lutong Han, **Ruoyu Chen**, Hua Zhang, Bing Han, Lili Wang, and Xiaochun Cao, **ACM MM 2021**, <strong><font color=red>Oral</font></strong>,  
-<u>[Code](https://github.com/RuoyuChen10/Facial_Attributes_Obfuscation)</u> / <u>[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475367)</u>
+[**Code**](https://github.com/RuoyuChen10/Facial_Attributes_Obfuscation) / [**Paper**](https://dl.acm.org/doi/abs/10.1145/3474085.3475367)
+
 # 🎖 Honors and Awards
 - *2020.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
 - *2019.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
@@ -70,3 +73,6 @@ School of Control Engineering, Northeastern University, China.
 Bachelor of Engineering  
 Ranking: 2/119
 
+# 💬 Professional Service
+
+- *Reviewer*: ECCV 22, CVPR 23, ICML 23, ICCV 23, NeurIPS 23 
