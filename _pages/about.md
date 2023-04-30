@@ -38,8 +38,9 @@ ACM Transactions on Multimedia Computing, Communications, and Applications, <fon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2022</div><img src='images/duck.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Poultry Science 2023</div><img src='images/duck.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 [Online Estimating Weight of White Pekin Duck Carcass by Computer Vision](https://www.sciencedirect.com/journal/poultry-science)
 
