@@ -36,7 +36,8 @@ I am very fortunate to have worked with lots of distinguished researchers: [Hua 
 
 [**Code**](https://github.com/RuoyuChen10/Sim2Word) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-ACM Transactions on Multimedia Computing, Communications, and Applications, <font color=purple>Impact factor: 4.094</font>
+ACM Transactions on Multimedia Computing, Communications, and Applications,  
+<font color=purple>Impact factor: 4.094</font>
 </div>
 </div>
 
@@ -50,7 +51,8 @@ ACM Transactions on Multimedia Computing, Communications, and Applications, <fon
 
 [**Code**](https://github.com/RuoyuChen10/Image_weighing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-Poultry Science (Top Journal in Agricultural and Biological Sciences), <font color=purple>Impact factor: 4.014</font>
+Poultry Science (Top Journal in Agricultural and Biological Sciences),  
+<font color=purple>Impact factor: 4.014</font>
 </div>
 </div>
 
