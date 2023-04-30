@@ -58,6 +58,8 @@ Poultry Science (Top Journal in Agricultural and Biological Sciences), <font col
 Jingzhi Li, Lutong Han, **Ruoyu Chen**, Hua Zhang, Bing Han, Lili Wang, and Xiaochun Cao, **ACM MM 2021**, <strong><font color=red>Oral</font></strong>,  
 [**Code**](https://github.com/RuoyuChen10/Facial_Attributes_Obfuscation) / [**Paper**](https://dl.acm.org/doi/abs/10.1145/3474085.3475367)
 
+- More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com/citations?user=rvxqCZIAAAAJ&hl) to view all papers.
+
 # 🎖 Honors and Awards
 - *2020.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
 - *2019.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
