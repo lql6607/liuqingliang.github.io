@@ -34,7 +34,7 @@ I am very fortunate to have worked with lots of distinguished researchers: [Hua 
 
 **Ruoyu Chen**, Jingzhi Li, Hua Zhang, Changchong Sheng, Li Liu, and Xiaochun Cao
 
-[**Code**](https://github.com/RuoyuChen10/Sim2Word) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/RuoyuChen10/Sim2Word) / [**Poster**](https://ruoyuchen10.github.io/slide/Sim2Word_TOMMCAP2022.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 ACM Transactions on Multimedia Computing, Communications, and Applications,  
 <font color=purple>Impact factor: 4.094</font>
@@ -49,7 +49,7 @@ ACM Transactions on Multimedia Computing, Communications, and Applications,
 
 **Ruoyu Chen**, Yuliang Zhao, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang and Wen Jung Li
 
-[**Code**](https://github.com/RuoyuChen10/Image_weighing) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/RuoyuChen10/Image_weighing) / [**Poster**](https://ruoyuchen10.github.io/slide/Image_Weighing_PoultrySci.2022.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 Poultry Science (Top Journal in Agricultural and Biological Sciences),  
 <font color=purple>Impact factor: 4.014</font>
