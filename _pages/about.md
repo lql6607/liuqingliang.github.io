@@ -19,7 +19,7 @@ redirect_from:
 
 I'm **Ruoyu Chen <font face="楷体" >(陈若愚)</font>**, a Ph.D. candidate in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the tutelage of Professor [Xiaochun Cao](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=en) (Professor at Sun Yat-sen University). My research interests include *Artificial Intelligence* and *Computer Vision*. My recent research works mainly focus on *Explainable AI*, *Disentangle*, *Few-shot Learning*, which applications in *Human Face*, *Object Detection*. I received my B.E. degree from School of Control Engineering, Northeastern University. During my undergraduate years, my main research interests are the application of artificial intelligence and image processing in agriculture and biomedical engineering. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-I am very fortunate to have worked with lots of distinguished researchers: [Hua Zhang](https://scholar.google.com/citations?user=KYifAy8AAAAJ&hl=en) (Associate Professor at IIE, CAS), [Siyuan Liang](https://liangsiyuan21.github.io/) (Ph.D. candidate at IIE, CAS).
+I am very fortunate to have worked with lots of distinguished researchers: [Hua Zhang](https://scholar.google.com/citations?user=KYifAy8AAAAJ&hl=en) (Associate Professor at IIE, CAS), [Siyuan Liang](https://liangsiyuan21.github.io/) (Research Fellow at National University of Singapore).
 
 I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of **Trustworthy AI** and **Open World**. Please feel free to contact me.
 
@@ -80,4 +80,4 @@ Ranking: 2/119
 
 # 💬 Professional Service
 
-- *Reviewer*: ECCV22, CVPR23, ICML23, ICCV23, NeurIPS23 
+- *Reviewer*: TPAMI 23, NeurIPS 23, ICML 23, ICCV 23, CVPR 23, ECCV 22
