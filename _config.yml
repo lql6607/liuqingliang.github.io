@@ -5,9 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+#Postdoctoral, Institute of Information Engineering, Chinese Academy of Sciences, China
+
 # Site Settings
 title                    : "Sanyi Zhang"
-description              : "Postdoctoral, Institute of Information Engineering, Chinese Academy of Sciences, China"
+description              : "All is well!"
 repository               : "31sy/31sy.github.io"
 google_scholar_stats_use_cdn : true
 
