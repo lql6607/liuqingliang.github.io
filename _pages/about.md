@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font face="楷体" >张三义</font>, 中国科学院信息工程研究所，信息安全国家重点实验室，特别研究助理。天津大学博士，美国中佛罗里达大学联合培养博士。主持承担了国家自然科学基金青年项目、博士后科学基金面上项目、
+<font face="黑体" >张三义</font>,中国科学院信息工程研究所，信息安全国家重点实验室，特别研究助理。天津大学博士，美国中佛罗里达大学联合培养博士。主持承担了国家自然科学基金青年项目、博士后科学基金面上项目、
   科技部重点研发项目子课题。  主要研究方向是人工智能、计算机视觉、人物图像智能感知，
   在IEEE TIP、T-CSVT、CVPR等国内外学术期刊和会议上发表论文9篇，其中以第一作者发表IEEE Trans. 3篇，并担任了IEEE TIP/TMM/TCSVT、CVPR、ACM MM、AAAI、ICCV等国际期刊和会议的审稿人。曾荣获全国博士后人工智能发展与应用论坛优秀论文二等奖、北京图象图形学学会BSIG2022年优秀博士论文提名奖等。
 
@@ -50,26 +50,36 @@ IEEE Transactions on Image Processing (TIP) 2022,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Poultry Science 2023</div><img src='images/ACE.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[ACE: Anchor-free Corner Evolution for Real-time Arbitrarily-oriented Object Detection](https://ieeexplore.ieee.org/abstract/document/9761381)
+
+Pengwen Dai, Siyuan Yao, Zekun Li, **Sanyi Zhang**, and Xiaochun Cao 
+
+[**Code**]() / [**Paper**](https://ieeexplore.ieee.org/abstract/document/9761381) / <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+IEEE Transactions on Image Processing (TIP) 2022,
+<font color=purple>Impact factor: 10.6</font>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Poultry Science 2023</div><img src='images/duck.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-[Online Estimating Weight of White Pekin Duck Carcass by Computer Vision](https://doi.org/10.1016/j.psj.2022.102348)
+[Progressive Contour Regression for Arbitrary-Shape Scene Text Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf)
 
-**Ruoyu Chen**, Yuliang Zhao, Yongliang Yang, Shuyu Wang, Lianjiang Li, Xiaopeng Sha, Lianqing Liu, Guanglie Zhang and Wen Jung Li
+Pengwen Dai, **Sanyi Zhang**, Hua Zhang, Xiaochun Cao 
 
-[**Code**](https://github.com/RuoyuChen10/Image_weighing) / [**Paper**](https://doi.org/10.1016/j.psj.2022.102348) / [**Poster**](https://ruoyuchen10.github.io/slide/Image_Weighing_PoultrySci.2022.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/dpengwen/PCR) / [**Paper**](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf) / <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-Poultry Science (Top Journal in Agricultural and Biological Sciences),  
-<font color=purple>Impact factor: 4.014</font>
+IEEE CVPR 2021,
 </div>
 </div>
 
-- Identity-Preserving Face Anonymization via Adaptively Facial Attributes Obfuscation,  
-Jingzhi Li, Lutong Han, **Ruoyu Chen**, Hua Zhang, Bing Han, Lili Wang, and Xiaochun Cao, **ACM MM 2021**, <strong><font color=red>Oral</font></strong>,  
-[**Code**](https://github.com/RuoyuChen10/Facial_Attributes_Obfuscation) / [**Paper**](https://dl.acm.org/doi/abs/10.1145/3474085.3475367)
-
-- More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com/citations?user=rvxqCZIAAAAJ&hl) to view all papers.
+- More papers are being submitted, or please visit my [Google Scholar](https://scholar.google.com/citations?user=n8TL-xkAAAAJ&hl=en) to view all papers.
 
 # 🎖 Honors and Awards
 - *2020.12* **China National Scholarship**, Ministry of Education of the People’s Republic of China (<strong><font color=red>Top 1.5%</font></strong>), NEU.
