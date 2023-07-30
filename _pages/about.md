@@ -151,14 +151,14 @@ Neurocomputing, 2018,
 
 
 # 📖 Educations
-- *2021.09 - 2026.06 (excepted)*,  
-School of Cyberspace Security, University of Chinese Academy of Sciences, China.  
-Ph.D. Candidate
-- *2017.09 - 2021.06*,  
-School of Control Engineering, Northeastern University, China.  
-Bachelor of Engineering  
-Ranking: 2/119
+- *2021.07 - 至今*,  博士后，信息安全国家重点实验室，中国科学院信息工程研究所，中国北京，指导老师：操晓春 教授
+- *2018.09 - 2019.09, CSC联培博士生，计算机科学，中佛罗里达大学（UCF），美国奥兰多，指导老师：Guo-Jun Qi 助理教授 
+- *2015.09 - 2021.06*,  博士，信息与通信工程，天津大学，中国天津，指导老师：周杰 教授  宋占杰 教授
+- *2011.09 - 2014.07*,  硕士，计算机科学与技术，太原理工大学，中国太原，指导老师：张兴忠 教授
+- *2007.09 - 2011.07*,  本科，计算机科学与技术，太原理工大学，中国太原 
 
 # 💬 Professional Service
 
-- *Reviewer*: TPAMI 23, NeurIPS 23, ICML 23, ICCV 23, CVPR 23, ECCV 22
+- *期刊审稿人*: IEEE Transactions on Image Processing (TIP), IEEE Transactions on Multimedia (TMM), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 
+ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), IEEE Computational Intelligence Magazine (CIM)
+- *会议审稿人*：ACM MM 2020-2023, NeurIPS 2022, IEEE CVPR 2023, AAAI 2023, IJCAI 2023, ICCV 2023， AAAI 2024.
