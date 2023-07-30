@@ -23,20 +23,30 @@ redirect_from:
 
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 Created a new home page. 
 
+- *2022*: &nbsp;🎉🎉 Two papers are accepted by IEEE Transactions on Image Processing (TIP) 2022.
+
+- *2021*: &nbsp;🎉🎉 Our text detection paper is accepted by CVPR 2021.
+
+- *2020*: &nbsp;🎉🎉 One human parsing paper is accepted by TCSVT -2020.
+
+- *2019*: &nbsp;🎉🎉 One co-author's paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (T-GRS).
+
+- *2019*: &nbsp;🎉🎉 One paper is accepted in T-CSVT 2019.
+
+- *2018*: &nbsp;🎉🎉 One paper is accepted in Neurocomputing 2018.
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2022</div><img src='images/sim2word.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/first-serial-edge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Sim2Word: Explaining Similarity with Representative Attribute Words via Counterfactual Explanations](https://dl.acm.org/doi/abs/10.1145/3563039)
+[AIParsing: Anchor-free Instance-level Human Parsing](https://arxiv.org/abs/2207.06854)
 
-**Ruoyu Chen**, Jingzhi Li, Hua Zhang, Changchong Sheng, Li Liu, and Xiaochun Cao
+**Sanyi Zhang**, Xiaochun Cao, Guo-Jun Qi, Zhanjie Song, and Jie Zhou
 
-[**Code**](https://github.com/RuoyuChen10/Sim2Word) / [**Paper**](https://dl.acm.org/doi/abs/10.1145/3563039) / [**Poster**](https://ruoyuchen10.github.io/slide/Sim2Word_TOMMCAP2022.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/31sy/AIParsing) / [**Paper**](https://arxiv.org/abs/2207.06854) / [**Poster**](https://ruoyuchen10.github.io/slide/Sim2Word_TOMMCAP2022.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-ACM Transactions on Multimedia Computing, Communications, and Applications,  
-<font color=purple>Impact factor: 4.094</font>
+IEEE Transactions on Image Processing (TIP) 2022,  
+<font color=purple>Impact factor: 10.6</font>
 </div>
 </div>
 
