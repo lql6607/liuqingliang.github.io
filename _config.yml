@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Sanyi Zhang"
+  name             : "张三义"
   avatar           : "images/sanyi.jpg"
-  bio              : "Major in Computer Vision"
-  location         : "Beijing, China"
+  bio              : "助理研究员  信息安全国家重点实验室  中国科学院信息工程研究所"
+  location         : "北京，中国"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n8TL-xkAAAAJ&hl=en"
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-7630-7154" # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/214/3977.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : "https://orcid.org/0000-0003-3786-2299" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
