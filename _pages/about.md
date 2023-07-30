@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Ruoyu Chen <font face="楷体" >(陈若愚)</font>**, a Ph.D. candidate in Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS), under the tutelage of Professor [Xiaochun Cao](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=en) (Professor at Sun Yat-sen University). My research interests include *Artificial Intelligence* and *Computer Vision*. My recent research works mainly focus on *Explainable AI*, *Disentangle*, *Few-shot Learning*, which applications in *Human Face*, *Object Detection*. I received my B.E. degree from School of Control Engineering, Northeastern University. During my undergraduate years, my main research interests are the application of artificial intelligence and image processing in agriculture and biomedical engineering. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
-I am very fortunate to have worked with lots of distinguished researchers: [Hua Zhang](https://scholar.google.com/citations?user=KYifAy8AAAAJ&hl=en) (Associate Professor at IIE, CAS), [Siyuan Liang](https://liangsiyuan21.github.io/) (Research Fellow at National University of Singapore).
-
-I am open for collaborations in research. I am also actively looking for collaborators, especially in the fields of **Trustworthy AI** and **Open World**. Please feel free to contact me.
+<font face="楷体" >(张三义)</font>**, 中国科学院信息工程研究所，信息安全国家重点实验室，特别研究助理。天津大学博士，美国中佛罗里达大学联合培养博士。主持承担了国家自然科学基金青年项目、博士后科学基金面上项目、
+  科技部重点研发项目子课题。  主要研究方向是人工智能、计算机视觉、人物图像智能感知，
+  在IEEE TIP、T-CSVT、CVPR等国内外学术期刊和会议上发表论文9篇，其中以第一作者发表IEEE Trans. 3篇，并担任了IEEE TIP/TMM/TCSVT、CVPR、ACM MM、AAAI、ICCV等国际期刊和会议的审稿人。曾荣获全国博士后人工智能发展与应用论坛优秀论文二等奖、北京图象图形学学会BSIG2022年优秀博士论文提名奖等。
 
 
 # 🔥 News
