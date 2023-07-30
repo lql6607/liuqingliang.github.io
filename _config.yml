@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ruoyu Chen"
-description              : "Ph.D. Candidate, University of Chinese Academy of Sciences, China"
-repository               : "RuoyuChen10/Ruoyuchen10.github.io"
+title                    : "Sanyi Zhang"
+description              : "Postdoctoral, Institute of Information Engineering, Chinese Academy of Sciences, China"
+repository               : "31sy/31sy.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ruoyu Chen"
+  name             : "Sanyi Zhang"
   avatar           : "images/sanyi.jpg"
-  bio              : "Major in Computer Application Technology, Computer Vision"
+  bio              : "Major in Computer Vision"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=rvxqCZIAAAAJ&hl"
-  email            : "chenruoyu@iie.ac.cn"
-  researchgate     : "https://www.researchgate.net/profile/Ruoyu-Chen-19" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=n8TL-xkAAAAJ&hl=en"
+  email            : "zhangsanyi@iie.ac.cn"
+  researchgate     : "https://www.researchgate.net/profile/Sanyi-Zhang" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RuoyuChen10" # e.g., "github username"
+  github           : "31sy" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
