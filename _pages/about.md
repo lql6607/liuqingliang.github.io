@@ -21,7 +21,7 @@ redirect_from:
 
 
 # 📝 Publications 
-- [Robust Image Steganography against General Scaling Attacks](10.1145/3581783.3612267),  
+- [Robust Image Steganography against General Scaling Attacks](https://github.com/Liuql23/Liuql23.github.io/blob/main/docs/ACMMM2023.pdf),  
  **Qingliang Liu**, Jiangqun Ni, Xianglei Hu, **ACM MM 2023**
 
 - [An efficient video watermark method using blockchain](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011595),  
