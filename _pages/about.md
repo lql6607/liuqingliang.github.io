@@ -19,6 +19,7 @@ redirect_from:
 
 **Qingliang Liu** is currently pursuing a Ph.D. academic committee at the School of Computer Science and Engineering, Sun Yat-sen University, under the tutelage of Professor Jiangqun Ni. During the doctoral period, the main research directions were machine learning and multimedia security, including image watermarking, image steganography, image steganalysis, etc. He focuses on the research of efficient steganographic algorithms, efficient steganalysis algorithms, and robust steganographic algorithms on real social networks.
 
+[Wechat](../images/wechat.jpg)
 
 
 # 📝 Publications 
