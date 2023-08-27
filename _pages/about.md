@@ -32,7 +32,7 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 
 # 📝 Publications 
 - [Robust Image Steganography against General Scaling Attacks](https://doi.org/10.1145/3581783.3612267),  
- **Qingliang Liu**, Jiangqun Ni, Xianglei Hu. **ACM MM, 2023**
+ **Qingliang Liu**, Jiangqun Ni^*, Xianglei Hu. **ACM MM, 2023**
 
 - [An Efficient Video Watermark Method using Blockchain](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011595),  
  **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Jun Shen. **Knowledge-Based Systems, 2023(259): 110066**
