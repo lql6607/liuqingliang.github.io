@@ -44,7 +44,7 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
  Hang Xie(joint first author), Shihao Huang(joint first author), **Qingliang Liu(joint first author)**, Yifan Xiang, Fabao Xu, Xiaoyan Li, Chun-Hung Chiu. **Frontiers in Endocrinology 2022(13): 865211**
 
 - [A Discrete Wavelet Transform and Singular Value Decomposition-based Digital Video Watermark Method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X20302080),  
- **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Mengchu Zhou. **Applied Mathematical Modelling, 2020(85): 273-293**
+ **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Mengchu Zhou. **Applied Mathematical Modelling, 2020(85): 273-293** 
 
 # 📝 PrePrints
 - [A Robust Image Steganographic Scheme against General Scaling Attacks](https://arxiv.org/pdf/2212.02822.pdf),  
@@ -52,5 +52,6 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 
 
 # 💬 Professional Service
-- *Reviewer of Journal*: Signal Image and Video Processing, Journal of Engineering and Applied Science
 - *Reviewer of Conference*: ACM MM 23
+- *Reviewer of Journal*: Signal Image and Video Processing, Journal of Engineering and Applied Science
+
