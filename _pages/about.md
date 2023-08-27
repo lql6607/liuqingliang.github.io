@@ -32,19 +32,19 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 
 # 📝 Publications 
 - [Robust Image Steganography against General Scaling Attacks](https://doi.org/10.1145/3581783.3612267),  
- **Qingliang Liu**, Jiangqun Ni*, Xianglei Hu. **ACM MM, 2023**
+ **Qingliang Liu**, Jiangqun Ni<sup>*</sup>, Xianglei Hu. **ACM MM, 2023**
 
 - [An Efficient Video Watermark Method using Blockchain](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011595),  
- **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Jun Shen*. **Knowledge-Based Systems, 2023(259): 110066**
+ **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Jun Shen<sup>*</sup>. **Knowledge-Based Systems, 2023(259): 110066**
 
 - [Effective JPEG Steganalysis using Non-linear Pre-processing and Residual Channel-spatial Attention](https://ieeexplore.ieee.org/abstract/document/9859742),  
- **Qingliang Liu**, Jiangqun Ni*, Mengxin Jian. **ICME, 2022**
+ **Qingliang Liu**, Jiangqun Ni<sup>*</sup>, Mengxin Jian. **ICME, 2022**
 
 - [The Fundus Structural and Functional Predictions of DME Patients After Anti-VEGF Treatments](https://www.frontiersin.org/articles/10.3389/fendo.2022.865211/full),  
- Hang Xie, Shihao Huang, **Qingliang Liu(joint first author)**, Yifan Xiang, Fabao Xu, Xiaoyan Li, Chun-Hung Chiu. **Frontiers in Endocrinology 2022(13): 865211**
+ Hang Xie<sup>+</sup>, Shihao Huang<sup>+</sup>, **Qingliang Liu<sup>+</sup>(<sup>+</sup>joint first author)**, Yifan Xiang, Fabao Xu, Xiaoyan Li, Chun-Hung Chiu<sup>*</sup>. **Frontiers in Endocrinology 2022(13): 865211**
 
 - [A Discrete Wavelet Transform and Singular Value Decomposition-based Digital Video Watermark Method](https://www.sciencedirect.com/science/article/abs/pii/S0307904X20302080),  
- **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Mengchu Zhou*. **Applied Mathematical Modelling, 2020(85): 273-293** 
+ **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Mengchu Zhou<sup>*</sup>. **Applied Mathematical Modelling, 2020(85): 273-293** 
 
 # 📝 PrePrints
 - [A Robust Image Steganographic Scheme against General Scaling Attacks](https://arxiv.org/pdf/2212.02822.pdf),  
