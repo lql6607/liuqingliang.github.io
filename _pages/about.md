@@ -23,11 +23,11 @@ redirect_from:
 
 
 # 📖 Educations
-- *August 2018 - Now*      ,   
+- *September 2018 - Now*      ,   
 Sun Yat-sen University, School of Computer Science and Engineering, Computer Science and Technology, Ph.D. student. 
-- *August 2015 - June 2018*,   
+- *September 2015 - July 2018*,   
 Qingdao University of Science and Technology, School of Mathematics and Physics, Statistics, M.D.
-- *August 2011 - June 2015*,   
+- *September 2011 - July 2015*,   
 Qingdao University of Science and Technology, School of Mathematics and Physics, Mathematics and Applied Mathematics, Bachelor.
 
 # 📝 Publications 
