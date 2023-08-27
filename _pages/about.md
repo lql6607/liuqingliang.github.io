@@ -53,5 +53,5 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 
 # 💬 Professional Service
 - *Reviewer of Conference*: ACM MM 23
-- *Reviewer of Journal*: Signal Image and Video Processing, Journal of Engineering and Applied Science
+- *Reviewer of Journal*: Applied Mathematical Modelling, Signal Image and Video Processing, Journal of Engineering and Applied Science
 
