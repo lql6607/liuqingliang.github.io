@@ -28,7 +28,7 @@ Sun Yat-sen University, School of Computer Science and Engineering, Computer Sci
 - *September 2015 - July 2018*,   
 Qingdao University of Science and Technology, School of Mathematics and Physics, Statistics, M.D.
 - *September 2011 - July 2015*,   
-Qingdao University of Science and Technology, School of Mathematics and Physics, Mathematics and Applied Mathematics, Bachelor.
+Qingdao University of Science and Technology, School of Mathematics and Physics, Mathematics and Applied Mathematics, B.S.
 
 # 📝 Publications 
 - [Robust Image Steganography against General Scaling Attacks](https://doi.org/10.1145/3581783.3612267),  
