@@ -24,7 +24,7 @@ redirect_from:
 
 # 📖 Educations
 - *February 2024 -  Present*,   
-Qingdao University of Science and Technology, School of Mathematics and Physics, Lecturer. 
+Qingdao University of Science and Technology, School of Mathematics and Physics, Distinguished Associate Professor. 
 - *September 2018 -  December 2023*,   
 Sun Yat-sen University, School of Computer Science and Engineering, Computer Science and Technology, Ph.D. student. 
 - *September 2015 - July 2018*,   
