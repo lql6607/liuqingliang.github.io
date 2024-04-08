@@ -23,7 +23,9 @@ redirect_from:
 
 
 # 📖 Educations
-- *September 2018 -  December 2023*      ,   
+- *February 2024 -  Present*,   
+Qingdao University of Science and Technology, School of Mathematics and Physics, Lecturer. 
+- *September 2018 -  December 2023*,   
 Sun Yat-sen University, School of Computer Science and Engineering, Computer Science and Technology, Ph.D. student. 
 - *September 2015 - July 2018*,   
 Qingdao University of Science and Technology, School of Mathematics and Physics, Statistics, M.D.
@@ -31,11 +33,14 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 Qingdao University of Science and Technology, School of Mathematics and Physics, Mathematics and Applied Mathematics, B.S.
 
 # 📝 Publications 
+- [Efficient JPEG image steganography using pairwise conditional random field model](https://doi.org/10.1016/j.sigpro.2024.109493),  
+ TYuanfeng Pan, Jiangqun Ni<sup>*</sup>, Qingliang Liu, Wenkang Su, Jiwu Huang. **Signal Processing, 2024:109493**.
+
 - [An Efficient Distortion Cost Function Design for Image Steganography in Spatial Domain Using Quaternion Representation](https://doi.org/10.1016/j.sigpro.2023.109370),  
- **Qingliang Liu**, Wenkang Su, Jiangqun Ni<sup>*</sup>, Xianglei Hu, Jiwu Huang. **Signal Processing, 2023 (in press)**.
+ **Qingliang Liu**, Wenkang Su, Jiangqun Ni<sup>*</sup>, Xianglei Hu, Jiwu Huang. **Signal Processing, 2024(219):109370**.
 
 - [Robust Image Steganography against General Scaling Attacks](https://doi.org/10.1145/3581783.3612267),  
- **Qingliang Liu**, Jiangqun Ni<sup>*</sup>, Xianglei Hu. **ACM MM, 2023**.
+ **Qingliang Liu**, Jiangqun Ni<sup>*</sup>, Xianglei Hu. **ACM MM, 2023:8233-8241**.
 
 - [An Efficient Video Watermark Method using Blockchain](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011595),  
  **Qingliang Liu**, Shuguo Yang, Jing Liu, Pengcheng Xiong, Jun Shen<sup>*</sup>. **Knowledge-Based Systems, 2023(259): 110066**.
