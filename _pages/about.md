@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Qingliang Liu** is currently pursuing a Ph.D. academic committee at the School of Computer Science and Engineering, Sun Yat-sen University, under the tutelage of Professor Jiangqun Ni. During the doctoral period, the main research directions were machine learning and multimedia security, including image watermarking, image steganography, image steganalysis, etc. He focuses on the research of efficient steganographic algorithms, efficient steganalysis algorithms, and robust steganographic algorithms on real social networks.
+**Qingliang Liu** is currently a Distinguished Associate Professor in the School of Mathematics and Physics, Qingdao University of Science and Technology (QUST). In December 2023, I obtained my Ph.D. degree in the School of Computer Science and Engineering from Sun Yat-sen University, under the tutelage of Professor Jiangqun Ni. He mainly conducts research in machine learning and multimedia security, including digital watermarking, steganography, steganalysis, etc. He focuses on the research of efficient steganographic algorithms, efficient steganalysis algorithms, and robust steganographic algorithms on real social networks.
 
 [Wechat](../images/wechat.jpg)
 
@@ -34,7 +34,7 @@ Qingdao University of Science and Technology, School of Mathematics and Physics,
 
 # 📝 Publications 
 - [Efficient JPEG image steganography using pairwise conditional random field model](https://doi.org/10.1016/j.sigpro.2024.109493),  
- TYuanfeng Pan, Jiangqun Ni<sup>*</sup>, Qingliang Liu, Wenkang Su, Jiwu Huang. **Signal Processing, 2024:109493**.
+Yuanfeng Pan, Jiangqun Ni<sup>*</sup>, **Qingliang Liu**, Wenkang Su, Jiwu Huang. **Signal Processing, 2024:109493**.
 
 - [An Efficient Distortion Cost Function Design for Image Steganography in Spatial Domain Using Quaternion Representation](https://doi.org/10.1016/j.sigpro.2023.109370),  
  **Qingliang Liu**, Wenkang Su, Jiangqun Ni<sup>*</sup>, Xianglei Hu, Jiwu Huang. **Signal Processing, 2024(219):109370**.
